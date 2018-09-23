@@ -1,0 +1,26 @@
+{
+  "name": "get-aurora-token",
+  "version": "0.1.0",
+  "description": "Simple and interactive program to get the Nanoleaf Aurora API token.",
+  "main": "index.js",
+  "dependencies": {
+    "fancy-log": "^1.3.2",
+    "ping": "^0.2.2",
+    "readline-sync": "^1.4.9",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christoph Kolb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-ldgk/get-aurora-token.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chris-ldgk/get-aurora-token/issues"
+  },
+  "homepage": "https://github.com/chris-ldgk/get-aurora-token#readme"
+}
